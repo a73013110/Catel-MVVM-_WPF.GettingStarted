@@ -85,7 +85,9 @@
     <Compile Include="Models\Settings.cs" />
     <Compile Include="Services\FamilyService.cs" />
     <Compile Include="Services\Interfaces\IFamilyService.cs" />
+    <Compile Include="ViewModels\FamilyViewModel.cs" />
     <Compile Include="ViewModels\MainWindowViewModel.cs" />
+    <Compile Include="ViewModels\PersonViewModel.cs" />
     <Compile Include="Views\MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
