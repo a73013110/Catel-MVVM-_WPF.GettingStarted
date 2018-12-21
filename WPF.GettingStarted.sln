@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF.GettingStarted", "WPF.GettingStarted\WPF.GettingStarted.csproj", "{9B7D88B8-1B7E-4BD3-A21A-81E478D7956A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4CC8710D-5419-478F-A2F2-DB5CC9AD8B1A}"
+	ProjectSection(SolutionItems) = preProject
+		WPF.GettingStarted\Readme.txt = WPF.GettingStarted\Readme.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
